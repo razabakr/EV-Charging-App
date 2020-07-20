@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='MapE Project2B'
